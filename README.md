@@ -1,7 +1,7 @@
 deck.narrator.js
 ================
 
-Module for deck.js to add audio narration to slides
+Module for deck.js to add audio narration to slides. [sample/sample.html](sample)
 
 ## Usage
 
